@@ -1,0 +1,12 @@
+Application (Client) ID:
+cd35833c-9ea2-40c6-a70a-1e5182a65307
+
+Directory (Tenant) ID:
+cc2c6f3c-4a34-4df2-b78e-881e4bed8308
+
+Object ID:
+7db84104-1308-4f47-b127-e010ba100217
+
+Application Key Value:
+ZNmOb9Lu39VJJsg1.QaTY_T14d-en09h~i
+
